@@ -25,6 +25,9 @@ This project focuses on detecting plant leaf diseases using a lightweight deep l
 
 
 ## 📂 Dataset
+The dataset used in this project is available here:
+[Dataset drive link}(https://drive.google.com/drive/folders/1HJklw8aiUs9FS_-QdITv4IVVxtMYcRnQ?usp=sharing)
+
 - Training: Potato, Tomato
 - Testing: Corn, Pepper
 
